@@ -15,7 +15,7 @@ Aplicativo mobile para controle financeiro, permitindo visualizar receitas e des
 ### Pré-requisitos  
 - Node.js instalado  
 - React Native CLI configurado  
-- Emulador Android ou dispositivo físico conectado  
+- Emulador Android  
 
 ### Passos  
 
