@@ -10,10 +10,6 @@ Aplicativo mobile para controle financeiro, permitindo visualizar receitas e des
 - **Manipulação de datas:** Date-fns  
 - **Interface:** Styled-components, React Native Calendars, React Native Vector Icons  
 
-## 📷 Preview  
-
-<img src="./image.png" width="300" alt="Print do app Finanças Pessoais" />
-
 ## ⚙️ Como rodar o projeto  
 
 ### Pré-requisitos  
