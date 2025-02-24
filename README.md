@@ -21,7 +21,7 @@ Aplicativo mobile para controle financeiro, permitindo visualizar receitas e des
 
 1. Clone o repositório  
    ```bash
-   git clone https://github.com/nexmarques/FinancasPessoais.git
+   git clone https://github.com/nexmarques/FinancasPessoais.git   
    cd FinancasPessoais
    ```
 
