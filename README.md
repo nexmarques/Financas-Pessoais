@@ -39,6 +39,7 @@ Aplicativo mobile para controle financeiro, permitindo visualizar receitas e des
 Este projeto depende de um backend separado. Para rodá-lo corretamente, siga as instruções no repositório do backend:
 
 🔗 Link do backend
+https://github.com/devfraga/backend-financas
 
 
 📄 Licença
